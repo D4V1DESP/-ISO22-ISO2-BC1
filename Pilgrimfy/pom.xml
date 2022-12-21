@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>es.uclm.esi.isoII.BC01</groupId>
+  <artifactId>Lab</artifactId>
+  <version>0.8.0</version>
+  <packaging>pom</packaging>
+  <name>Pilgrimfy</name>
+  <modules>
+    <module>Componente1_Cliente</module>
+    <module>Componente1_Server</module>
+    <module>Componente2_Cliente</module>
+    <module>Componente2_Servidor</module>
+    <module>Componente4_Cliente</module>
+    <module>Componente4_Servidor</module>
+    <module>Componente3_Cliente</module>
+    <module>Componente3_Server</module>
+    <module>Componente5_Cliente</module>
+    <module>Componente5_Servidor</module>
+    <module>Componente6_Cliente</module>
+    <module>Componente6_Servidor</module>
+  </modules>
+</project>
