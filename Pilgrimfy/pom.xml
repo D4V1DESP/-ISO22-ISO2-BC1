@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>es.uclm.esi.isoII.BC01</groupId>
   <artifactId>Lab</artifactId>
-  <version>0.8.0</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>Pilgrimfy</name>
   <modules>
